@@ -8,6 +8,22 @@
       "expo-router"
     ],
     "name": "Jobbie_ReactNative",
-    "slug": "Jobbie_ReactNative"
+    "slug": "Jobbie_ReactNative",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "3067b2a3-75e9-49f3-b8e5-776a2ef03e3e"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/3067b2a3-75e9-49f3-b8e5-776a2ef03e3e"
+    },
+    "android": {},
+    "ios": {}
   }
 }
